@@ -1,12 +1,9 @@
 {
-  "name": "my-app-next-learn",
-  "version": "0.1.0",
-  "private": true,
+  "private": true,  
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --turbo",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
     "react": "^18",
